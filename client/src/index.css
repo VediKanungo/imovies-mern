@@ -1,0 +1,8 @@
+body{background:#14110f;color:#f1e9dc;font-family:Georgia,serif}
+.navbar{background:#0b0908!important;border-bottom:2px solid #c9a227}.navbar a{color:#f1e9dc!important;text-decoration:none}
+.card{background:#211c18;color:#f1e9dc;border:1px solid #3a322b}
+.form-control,.form-select{background:#2a241f;color:#f1e9dc;border-color:#4a4036}
+.poster{height:160px;background:linear-gradient(135deg,#7a1f2b,#c9a227);display:flex;align-items:center;justify-content:center;font-size:1.4rem;padding:8px;text-align:center}
+.seat{width:34px;height:34px;margin:3px;border:1px solid #c9a227;background:transparent;color:#f1e9dc;border-radius:6px 6px 2px 2px;font-size:.7rem}
+.seat.sel{background:#c9a227;color:#000}.seat:disabled{background:#4a4036;border-color:#4a4036;color:#777}
+.screen{height:6px;background:#c9a227;border-radius:50%;margin:16px auto;width:70%}
